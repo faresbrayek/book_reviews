@@ -4,7 +4,6 @@
 
 <p> 🐱‍💻 Simple Angular Reviews  🐱‍💻  </p>
 
-
 <img src="https://i.ibb.co/Gxp693t/image.png" data-canonical-src="https://i.ibb.co/Gxp693t/image.png" style="max-width:100%;">
 <img src="https://i.ibb.co/4gW2sD1/image.png" data-canonical-src="https://i.ibb.co/4gW2sD1/image.png" style="max-width:100%;">
 <img src="https://i.ibb.co/ckwPf3B/image.png" data-canonical-src="https://i.ibb.co/ckwPf3B/image.png" style="max-width:100%;">
